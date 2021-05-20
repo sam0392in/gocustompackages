@@ -16,7 +16,7 @@ import (
 func main() {
 
     file := "test.txt"
-    lines := filereader.Readlines(file)
+    lines := filehandler.Readlines(file)
 
 	for _, line := range lines {
 		fmt.Println("\n-> " + line)
