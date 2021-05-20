@@ -1,8 +1,9 @@
 # File Reader
-This package provides reading the lines of a given file and returns an array.
+This package provides reading and writing to the file.
 
 ## Usage
 
+### Read the file
 ```
 package main
 
