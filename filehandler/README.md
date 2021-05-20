@@ -1,4 +1,4 @@
-# File Reader
+# File Handler
 This package provides reading and writing to the file.
 
 ## Usage
