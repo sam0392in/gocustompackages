@@ -10,7 +10,7 @@ package main
 import (
         "fmt"
 
-        "github.com/sam0392in/gocustompackages/filereader"
+        "github.com/sam0392in/gocustompackages/filehandler"
 )
 
 func main() {
