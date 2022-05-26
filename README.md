@@ -1,5 +1,7 @@
 # GO Custom Packages
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/sam0392in/gocustompackages)](https://goreportcard.com/report/github.com/sam0392in/gocustompackages)
+
 ![logo](go.png "icon")
 
 - GO Custom packages will provide efficient way of programming.
